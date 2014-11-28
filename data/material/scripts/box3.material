@@ -1,0 +1,46 @@
+material 1336366601_1_box
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.376470588235294 0.36078431372549 1.0
+      diffuse 0.392156862745098 0.376470588235294 0.36078431372549 1.0
+      // texture size: 48.0, 48.0
+      texture_unit
+      {
+        texture 1336366601_1_images_Textures_wall_3_wall.jpg
+      }
+    }
+  }
+}
+material 1336366601_2_Material4
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.376470588235294 0.36078431372549 1.0
+      diffuse 0.392156862745098 0.376470588235294 0.36078431372549 1.0
+      // texture size: 48.0, 48.0
+      texture_unit
+      {
+        texture 1336366601_2_images_Textures_wall_3_wall.jpg
+      }
+    }
+  }
+}
+material 1336366601_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}

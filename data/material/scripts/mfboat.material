@@ -1,0 +1,413 @@
+material 1336530720_1_Color_G12
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.117647058823529 0.6 0.117647058823529 1.0
+      diffuse 0.117647058823529 0.6 0.117647058823529 1.0
+    }
+  }
+}
+material 1336530720_2_Color_A06
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.8 0.0 0.0 1.0
+      diffuse 0.8 0.0 0.0 1.0
+    }
+  }
+}
+material 1336530720_3_Color_E13
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.6 0.6 0.23921568627451 1.0
+      diffuse 0.6 0.6 0.23921568627451 1.0
+    }
+  }
+}
+material 1336530720_4_Color_002
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.776470588235294 0.776470588235294 0.776470588235294 1.0
+      diffuse 0.776470588235294 0.776470588235294 0.776470588235294 1.0
+    }
+  }
+}
+material 1336530720_5_Color_D05
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 0.972549019607843 0.972549019607843 1.0
+      diffuse 1.0 0.972549019607843 0.972549019607843 1.0
+    }
+  }
+}
+material 1336530720_6_Color_D03
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 0.847058823529412 0.396078431372549 1.0
+      diffuse 1.0 0.847058823529412 0.396078431372549 1.0
+    }
+  }
+}
+material 1336530720_7_Color_C12
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.6 0.356862745098039 0.117647058823529 1.0
+      diffuse 0.6 0.356862745098039 0.117647058823529 1.0
+    }
+  }
+}
+material 1336530720_8_[Sketchy_Crosshatch_Wavy]2
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.913725490196078 0.913725490196078 0.913725490196078 1.0
+      diffuse 0.913725490196078 0.913725490196078 0.913725490196078 1.0
+      // texture size: 2.0, 2.0
+      texture_unit
+      {
+        texture 1336530720_7_Sketchy_Crosshatch_Wavy.jpg
+      }
+    }
+  }
+}
+material 1336530720_9_Color_A01
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 0.0 0.0 1.0
+      diffuse 1.0 0.0 0.0 1.0
+    }
+  }
+}
+material 1336530720_10_[Translucent_Glass_Green_Dark]2
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 0.490196078431373 0.717647058823529 0.0392156862745098 0.5
+    }
+  }
+}
+material 1336530720_11_[Translucent_Glass_Gold]1
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 1.0 0.996078431372549 0.101960784313725 0.6
+      // texture size: 24.0, 24.0
+      texture_unit
+      {
+        texture 1336530720_6_Translucent_Glass_Tinted.jpg
+      }
+    }
+  }
+}
+material 1336530720_12_Color_F17
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.23921568627451 0.4 0.0784313725490196 1.0
+      diffuse 0.23921568627451 0.4 0.0784313725490196 1.0
+    }
+  }
+}
+material 1336530720_13_Color_F11
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.298039215686275 0.6 0.0 1.0
+      diffuse 0.298039215686275 0.6 0.0 1.0
+    }
+  }
+}
+material 1336530720_14_Translucent_Glass_Blue
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 1.0 0.0 0.0 0.81
+    }
+  }
+}
+material 1336530720_15_Metal_Aluminum_Anodized
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.792156862745098 0.819607843137255 0.858823529411765 1.0
+      diffuse 0.792156862745098 0.819607843137255 0.858823529411765 1.0
+      // texture size: 54.0, 54.0
+      texture_unit
+      {
+        texture 1336530720_1_Metal_Aluminum_Anodized.jpg
+      }
+    }
+  }
+}
+material 1336530720_16_Color_006
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.337254901960784 0.337254901960784 0.337254901960784 1.0
+      diffuse 0.337254901960784 0.337254901960784 0.337254901960784 1.0
+    }
+  }
+}
+material 1336530720_17_Color_000
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}
+material 1336530720_18_Translucent_Glass_Tinted
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 0.0313725490196078 0.788235294117647 0.945098039215686 0.48
+      // texture size: 24.0, 24.0
+      texture_unit
+      {
+        texture 1336530720_2_Translucent_Glass_Tinted.jpg
+      }
+    }
+  }
+}
+material 1336530720_19_Wood_Cherry_Original
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.596078431372549 0.337254901960784 0.164705882352941 1.0
+      diffuse 0.596078431372549 0.337254901960784 0.164705882352941 1.0
+      // texture size: 72.0, 72.0
+      texture_unit
+      {
+        texture 1336530720_3_Wood_Cherry_Original.jpg
+      }
+    }
+  }
+}
+material 1336530720_20_Color_007
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.227450980392157 0.227450980392157 0.227450980392157 1.0
+      diffuse 0.227450980392157 0.227450980392157 0.227450980392157 1.0
+    }
+  }
+}
+material 1336530720_21_Color_008
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529 1.0
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529 1.0
+    }
+  }
+}
+material 1336530720_22_Color_001
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.886274509803922 0.886274509803922 0.886274509803922 1.0
+      diffuse 0.886274509803922 0.886274509803922 0.886274509803922 1.0
+    }
+  }
+}
+material 1336530720_23_[Translucent_Glass_Gray]1
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 0.501960784313725 0.501960784313725 0.501960784313725 0.9
+    }
+  }
+}
+material 1336530720_24_Metal_Rough
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.6 0.615686274509804 0.627450980392157 1.0
+      diffuse 0.6 0.615686274509804 0.627450980392157 1.0
+      // texture size: 8.0, 8.0
+      texture_unit
+      {
+        texture 1336530720_5_Metal_Rough.jpg
+      }
+    }
+  }
+}
+material 1336530720_25_Concrete_Aggregate_Smoke
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+      // texture size: 12.0, 12.0
+      texture_unit
+      {
+        texture 1336530720_4_Concrete_Aggregate_Smoke.jpg
+      }
+    }
+  }
+}
+material 1336530720_26_Color_003
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.666666666666667 0.666666666666667 0.666666666666667 1.0
+      diffuse 0.666666666666667 0.666666666666667 0.666666666666667 1.0
+    }
+  }
+}
+material 1336530720_27_Color_004
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.556862745098039 0.556862745098039 0.556862745098039 1.0
+      diffuse 0.556862745098039 0.556862745098039 0.556862745098039 1.0
+    }
+  }
+}
+material 1336530720_28_[Translucent_Glass_Green_Dark]1
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 0.305882352941176 0.447058823529412 0.0235294117647059 0.89
+    }
+  }
+}
+material 1336530720_29_Color_H10
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.63921568627451 0.8 0.8 1.0
+      diffuse 0.63921568627451 0.8 0.8 1.0
+    }
+  }
+}
+material 1336530720_30_Gray3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.756862745098039 0.756862745098039 0.756862745098039 1.0
+      diffuse 0.756862745098039 0.756862745098039 0.756862745098039 1.0
+    }
+  }
+}
+material 1336530720_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}

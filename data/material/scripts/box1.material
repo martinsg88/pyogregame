@@ -1,0 +1,36 @@
+material 1336353832_1_0132_LightGray
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.662745098039216 0.662745098039216 0.662745098039216 1.0
+      diffuse 0.662745098039216 0.662745098039216 0.662745098039216 1.0
+    }
+  }
+}
+material 1336353832_2_0135_DarkGray
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.317647058823529 0.317647058823529 0.317647058823529 1.0
+      diffuse 0.317647058823529 0.317647058823529 0.317647058823529 1.0
+    }
+  }
+}
+material 1336353832_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}

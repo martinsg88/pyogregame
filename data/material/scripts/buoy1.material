@@ -1,0 +1,217 @@
+material 1336526629_1_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_5_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_2_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_3_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_3_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_7_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_4_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_1_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_5_Material5
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.215686274509804 0.254901960784314 0.368627450980392 1.0
+      diffuse 0.215686274509804 0.254901960784314 0.368627450980392 1.0
+      // texture size: 26.246719160105, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_10_f_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_6_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_8_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_7_Material5
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.215686274509804 0.254901960784314 0.368627450980392 1.0
+      diffuse 0.215686274509804 0.254901960784314 0.368627450980392 1.0
+      // texture size: 26.246719160105, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_11_f_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_8_Translucent_Glass_Tinted
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      diffuse 0.0313725490196078 0.788235294117647 0.945098039215686 0.48
+      // texture size: 24.0, 24.0
+      texture_unit
+      {
+        texture 1336526629_12_Translucent_Glass_Tinted.jpg
+      }
+    }
+  }
+}
+material 1336526629_9_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_4_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_10_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_2_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_11_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_9_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_12_Material3
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      diffuse 0.392156862745098 0.47843137254902 0.611764705882353 1.0
+      // texture size: 39.3700787401575, 29.5275590551181
+      texture_unit
+      {
+        texture 1336526629_6_far_deau.jpg
+      }
+    }
+  }
+}
+material 1336526629_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      lighting on 
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+    }
+  }
+}
